@@ -1,0 +1,17 @@
+endpoints {
+  authorization {
+    none
+    // or add OAuth configuration
+   
+  }
+
+  action-endpoints {
+    action-endpoint (Tweet) {
+      accepted-inputs ()
+      local-endpoint ("fetchtweet.js")
+    }
+
+   
+    }
+  }
+

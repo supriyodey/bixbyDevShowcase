@@ -1,0 +1,5 @@
+structure (tweet) {
+  description (the tweet)
+  property (Tweet) {
+    type (viv.core.Text)
+  }}
