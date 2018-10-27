@@ -6,6 +6,7 @@ This capsule gets you the latest tweet from @SamsungMobile twitter handle and ke
 This is just a working prototype. Need to add more features like fetching tweets by @twitterHandles, better display layout, better NL model,...
 
 Project link : https://bixby-showcase.bemyapp.com/#/projects/5baa2d37eebcd30004c41a50
+
 Project Demo : https://www.youtube.com/watch?v=TP6cOgsw8SY
 
 Feel free to fork your own version or suggest changes.
