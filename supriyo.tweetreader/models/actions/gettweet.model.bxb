@@ -1,11 +1,6 @@
 action (Tweet) {
   type(Search)
   description (fetch the tweet)
-   //collect {
-   // input (number) {
-     // type (core.Integer)
-    //  min (Required) max (One)
-    //}
-  //}
+   
   output (tweet)
 }
